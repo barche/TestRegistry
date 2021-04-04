@@ -1,0 +1,6 @@
+name = "TestRegistry"
+uuid = "ab055220-d7a8-4af6-9225-0ac239db595f"
+repo = "https://github.com/barche/TestRegistry.git"
+description = "Test registry"
+
+[packages]
