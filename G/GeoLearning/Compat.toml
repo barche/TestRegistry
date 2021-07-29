@@ -1,0 +1,28 @@
+[0]
+GeoStatsBase = "0.21"
+TableOperations = "1"
+Tables = "1.4.0-1"
+julia = "1.5.0-1"
+
+["0-0.1.0"]
+Meshes = "0.11"
+
+["0-0.1.1"]
+Distributions = "0.24"
+MLJModelInterface = "0.4"
+
+["0.1.1"]
+Meshes = "0.11-0.12"
+
+["0.1.2"]
+Meshes = "0.11-0.13"
+
+["0.1.2-0"]
+Distributions = "0.24-0.25"
+MLJModelInterface = ["0.4", "1"]
+
+["0.1.3"]
+Meshes = "0.14"
+
+["0.1.4-0"]
+Meshes = "0.16"
